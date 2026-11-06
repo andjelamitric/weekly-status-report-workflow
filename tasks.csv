@@ -1,0 +1,13 @@
+id,title,owner,status,due_date,last_update,notes
+T-01,Kickoff workshop with client,Ana,Done,2026-10-20,2026-10-20,Held on time. 8 client attendees.
+T-02,Requirements document v1,Marko,Done,2026-10-30,2026-11-03,Delivered 3 days late. Client has not confirmed receipt.
+T-03,Login and SSO integration,Ivan,In progress,2026-11-13,2026-11-05,About 60% done. Waiting for test credentials from client IT.
+T-04,Shipment tracking page,Jelena,In progress,2026-11-10,2026-11-02,No update this week.
+T-05,Invoice export (PDF),Ivan,Blocked,2026-11-06,2026-10-28,Client has not decided on invoice layout. Dev says the client spec is confusing.
+T-06,Database migration scripts,Marko,Done,2026-11-04,2026-11-04,Tested on staging.
+T-07,User acceptance test plan,,Not started,2026-11-20,,No owner assigned yet.
+T-08,Admin dashboard,Jelena,Done,2026-11-06,2026-11-06,Done but waiting for client sign-off.
+T-09,Performance testing,Petar,Not started,2026-11-27,,Depends on T-03 and T-04.
+T-10,Training materials for client staff,Ana,In progress,2026-12-04,2026-11-05,Outline agreed; drafting started.
+T-11,Security review,Petar,In progress,2026-11-12,2026-11-04,One high-severity finding open (session timeout).
+T-12,Go-live plan,Ana,Not started,2026-12-11,,Go-live date still 2026-12-18; at risk if T-03 slips.
